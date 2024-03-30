@@ -60,7 +60,7 @@ var generatePErcent = ()=>{
 
         document.querySelector(".divsmall").innerHTML = "Oops...  chances are very less ! Better to to find new Crush . Do not waste Your time any More";
         imgLoc.style.display = "block";
-        imgLoc.src = ("images/img1.png");
+        imgLoc.src = ("img1.png");
 
     }else if (no < 60 && no > 40){
         document.querySelector(".showPercent").style.color = 'Yellow';
@@ -68,7 +68,7 @@ var generatePErcent = ()=>{
         document.querySelector(".divsmall").style.color = '#FF9209';
         document.querySelector(".divsmall").innerHTML = "You're on the right track 🙂,Don't loose hope, she could be your girlfriend.Keep Trying" 
         imgLoc.style.display = "block";
-        imgLoc.src = ("images/img2.png");
+        imgLoc.src = ("img2.png");
       
     }else{
         document.querySelector(".showPercent").style.color = 'Green';
@@ -76,7 +76,7 @@ var generatePErcent = ()=>{
         document.querySelector(".divsmall").style.color = 'Green';
         document.querySelector(".divsmall").innerHTML = "❤️Congratulations dude😍... Pack your bags, you're on a direct flight to Loveville. She's practically your girlfriend already👩‍❤️‍💋‍👨"
         imgLoc.style.display = "block";
-        imgLoc.src = ("images/img3.png");
+        imgLoc.src = ("img3.png");
     }
 
    
