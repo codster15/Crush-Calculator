@@ -1,7 +1,7 @@
 
 # Crush Calculator
 
-Welcome to the Crush Calculator! This fun and engaging web app allows you to calculate the compatibility between you and your crush in a playful manner. Built with love and a bit of humor, it's the perfect way to break the ice or simply enjoy a light-hearted moment..
+Welcome to the Crush Calculator! This fun and engaging web app allows you to calculate the compatibility between you and your crush in a playful manner. Built with love and a bit of humor, it's the perfect way to break the ice or simply enjoy a light-hearted moment.
 
 ## Getting Started
 
